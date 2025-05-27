@@ -9,34 +9,34 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "military-sculpture.gl.joinmc.link",
-          "assigned_srv": "military-sculpture.gl.joinmc.link",
+          "assigned_domain": "rest-violent.gl.joinmc.link",
+          "assigned_srv": "rest-violent.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "3d588375-ebc3-4095-953d-d83c0dcdcc17",
-          "ip_hostname": "28.ip.gl.ply.gg",
+          "id": "de292c45-5f54-472e-9f80-5c08863243ff",
+          "ip_hostname": "27.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 56477,
-          "port_start": 56476,
+          "port_end": 60896,
+          "port_start": 60895,
           "region": "global",
-          "static_ip4": "147.185.221.28",
-          "static_ip6": "2602:fbaf:0:1::1c",
-          "tunnel_ip": "2602:fbaf:0:1::1c"
+          "static_ip4": "147.185.221.27",
+          "static_ip6": "2602:fbaf:0:1::1b",
+          "tunnel_ip": "2602:fbaf:0:1::1b"
         },
         "status": "allocated"
       },
-      "created_at": "2025-05-26T02:47:02.394204Z",
+      "created_at": "2025-05-16T20:05:32.209773Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "dfb31fb5-37c9-4ea1-a37a-81140f0aaca0",
+      "id": "94253b0e-c927-47d0-8921-b3c763cde911",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "f020f3fa-5156-4efd-9411-33e30bafa233",
-          "agent_name": "Server2",
+          "agent_id": "e6971400-3097-40b2-a7c8-f456f90dd492",
+          "agent_name": "Server",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
